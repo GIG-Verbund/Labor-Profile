@@ -1,0 +1,17 @@
+[
+  {
+    "id": "kardio-1",
+    "name": "Kardiologie",
+    "beschreibung": "Fachbereich für Herz-Kreislauf-Erkrankungen"
+  },
+  {
+    "id": "pneumo-1",
+    "name": "Pneumologie",
+    "beschreibung": "Fachbereich für Lungenerkrankungen"
+  },
+  {
+    "id": "gefaess-1",
+    "name": "Gefäßmedizin",
+    "beschreibung": "Fachbereich für Erkrankungen des Gefäßsystems"
+  }
+]

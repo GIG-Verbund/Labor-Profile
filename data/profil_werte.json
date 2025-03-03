@@ -1,0 +1,86 @@
+[
+  {
+    "id": "pv-001",
+    "profil_id": "kardio-basic-1",
+    "wert_id": "wert-001",
+    "reihenfolge": 1
+  },
+  {
+    "id": "pv-002",
+    "profil_id": "kardio-basic-1",
+    "wert_id": "wert-002",
+    "reihenfolge": 2
+  },
+  {
+    "id": "pv-003",
+    "profil_id": "kardio-erweitert-1",
+    "wert_id": "wert-001",
+    "reihenfolge": 1
+  },
+  {
+    "id": "pv-004",
+    "profil_id": "kardio-erweitert-1",
+    "wert_id": "wert-002",
+    "reihenfolge": 2
+  },
+  {
+    "id": "pv-005",
+    "profil_id": "kardio-erweitert-1",
+    "wert_id": "wert-003",
+    "reihenfolge": 3
+  },
+  {
+    "id": "pv-006",
+    "profil_id": "kardio-erweitert-1",
+    "wert_id": "wert-004",
+    "reihenfolge": 4
+  },
+  {
+    "id": "pv-007",
+    "profil_id": "pneumo-basic-1",
+    "wert_id": "wert-005",
+    "reihenfolge": 1
+  },
+  {
+    "id": "pv-008",
+    "profil_id": "pneumo-basic-1",
+    "wert_id": "wert-004",
+    "reihenfolge": 2
+  },
+  {
+    "id": "pv-009",
+    "profil_id": "gefaess-basic-1",
+    "wert_id": "wert-006",
+    "reihenfolge": 1
+  },
+  {
+    "id": "pv-1741017407417",
+    "profil_id": "profil-1741017167462",
+    "wert_id": "wert-003",
+    "reihenfolge": 1
+  },
+  {
+    "id": "pv-1741017409345",
+    "profil_id": "profil-1741017167462",
+    "wert_id": "wert-006",
+    "reihenfolge": 2
+  },
+  {
+    "id": "pv-1741017411282",
+    "profil_id": "profil-1741017167462",
+    "wert_id": "wert-002",
+    "reihenfolge": 3
+  },
+  {
+    "id": "pv-1741017413169",
+    "profil_id": "profil-1741017167462",
+    "wert_id": "wert-001",
+    "reihenfolge": 4
+  },
+  {
+    "id": "pv-1741017413794",
+    "profil_id": "profil-1741017167462",
+    "wert_id": "wert-004",
+    "reihenfolge": 5
+  }
+]

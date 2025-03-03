@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Superblut2000",
+    "ebm_ziffer": 123,
+    "verguetung": 12490,
+    "referenzbereich": 36986,
+    "erklaerung": "Der eine Wert, den man braucht",
+    "gruende_erhoehte_werte": "Rheuma",
+    "behandlung_erhoehte_werte": "Cola trinken",
+    "gruende_niedrige_werte": "Gicht",
+    "behandlung_niedrige_werte": "Milch trinken"
+  }
+]

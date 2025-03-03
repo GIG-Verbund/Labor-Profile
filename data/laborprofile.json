@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kardio-basic-1",
+    "name": "Kardiologie Basisprofil",
+    "fachbereich_id": "kardio-1",
+    "beschreibung": "Grundlegende Laborwerte für kardiologische Untersuchungen"
+  },
+  {
+    "id": "kardio-erweitert-1",
+    "name": "Kardiologie erweitertes Profil",
+    "fachbereich_id": "kardio-1",
+    "beschreibung": "Umfassende Laborwerte für tiefergehende kardiologische Diagnostik"
+  },
+  {
+    "id": "pneumo-basic-1",
+    "name": "Pneumologie Basisprofil",
+    "fachbereich_id": "pneumo-1",
+    "beschreibung": "Grundlegende Laborwerte für pneumologische Untersuchungen"
+  },
+  {
+    "id": "gefaess-basic-1",
+    "name": "Gefäßmedizin Basisprofil",
+    "fachbereich_id": "gefaess-1",
+    "beschreibung": "Grundlegende Laborwerte für gefäßmedizinische Untersuchungen"
+  },
+  {
+    "id": "profil-1741017167462",
+    "name": "Pascals Lieblingsprofil",
+    "fachbereich_id": "pneumo-1",
+    "beschreibung": "Alle meine Werte an einem Ort. Wow!"
+  }
+]
